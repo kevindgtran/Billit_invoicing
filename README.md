@@ -2,7 +2,7 @@
 
 ### A desktop invoicing application
 
-<img src="/images/Billit_giphy.gif" width="170"> <img src="/images/login.png" width="170"> <img src="/images/getStarted.png" width="170"> <img src="/images/newInvoice.png" width="170"> <img src="/images/dashboard.png" width="170">
+<img src="/images/Billit_giphy.gif" width="250"> <img src="/images/login.png" width="170"> <img src="/images/getStarted.png" width="170"> <img src="/images/newInvoice.png" width="170"> <img src="/images/dashboard.png" width="170">
 
 ### Overview
 
