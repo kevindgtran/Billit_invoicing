@@ -7,7 +7,7 @@
 A simple invoicing app (version 1.0) that allows users create, edit, email and print invoices. Interviewed several small business owners on their process, pain-points and ideal invoicing solutions. Developed application using HTML, CSS, Javascript and Bootstrap for the front end. Node.js, Express, MongoDB and Heroku server for the backend. Additional features will include: Customizable email reminders, payments integration, and a payments tracking system. 
 
 
-[Link to view site (V1.0)](https://billitapp.herokuapp.com/)
+[Link to website (V1.0)](https://billitapp.herokuapp.com/)
 
 ### Technologies & Tools
 
